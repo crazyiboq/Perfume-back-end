@@ -1,8 +1,9 @@
-﻿namespace back_end.Modelsl;
-
-public enum Volume
+﻿namespace back_end.Models
 {
-    ML30 = 30,
-    ML50 = 50,
-    ML100 = 100
+    public enum Volume
+    {
+        ML30 = 30,
+        ML50 = 50,
+        ML100 = 100
+    }
 }

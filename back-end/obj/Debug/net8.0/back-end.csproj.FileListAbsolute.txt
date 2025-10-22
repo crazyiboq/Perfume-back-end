@@ -149,10 +149,11 @@ C:\Users\sefer_us84\Desktop\Perfume API\back-end\back-end\obj\Debug\net8.0\stati
 C:\Users\sefer_us84\Desktop\Perfume API\back-end\back-end\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.back-end.props
 C:\Users\sefer_us84\Desktop\Perfume API\back-end\back-end\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.back-end.props
 C:\Users\sefer_us84\Desktop\Perfume API\back-end\back-end\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\sefer_us84\Desktop\Perfume API\back-end\back-end\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\sefer_us84\Desktop\Perfume API\back-end\back-end\obj\Debug\net8.0\back-end.csproj.Up2Date
 C:\Users\sefer_us84\Desktop\Perfume API\back-end\back-end\obj\Debug\net8.0\back-end.dll
 C:\Users\sefer_us84\Desktop\Perfume API\back-end\back-end\obj\Debug\net8.0\refint\back-end.dll
 C:\Users\sefer_us84\Desktop\Perfume API\back-end\back-end\obj\Debug\net8.0\back-end.pdb
 C:\Users\sefer_us84\Desktop\Perfume API\back-end\back-end\obj\Debug\net8.0\back-end.genruntimeconfig.cache
 C:\Users\sefer_us84\Desktop\Perfume API\back-end\back-end\obj\Debug\net8.0\ref\back-end.dll
+C:\Users\sefer_us84\Desktop\Perfume API\back-end\back-end\obj\Debug\net8.0\back-end.sourcelink.json
+C:\Users\sefer_us84\Desktop\Perfume API\back-end\back-end\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
