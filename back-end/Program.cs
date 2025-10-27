@@ -1,5 +1,7 @@
 using back_end.Data;
 using Microsoft.EntityFrameworkCore;
+using PerfumeShopApi.Services.Interfaces;
+using PerfumeShopApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,8 +11,10 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddAutoMapper(typeof(Program).Assembly);
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddScoped<IProductService, ProductService>();
 
 var app = builder.Build();
 

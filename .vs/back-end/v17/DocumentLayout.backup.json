@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\mapper\\productmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\mapper\\productmp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\dtos\\productdtos\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\dtos\\productdtos\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\dtos\\productdtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\dtos\\productdtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\dtos\\productdtos\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,8 +23,44 @@
       "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\dtos\\productdtos\\productlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\dtos\\productdtos\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\dtos\\productdtos\\productdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\dtos\\productdtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\dtos\\productdtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\back-end.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\back-end.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\back-end.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\back-end.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\helpers\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\models\\volume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\models\\volume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\helpers\\productqueryparams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -72,14 +92,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\migrations\\20251020075841_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\migrations\\20251020075841_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|c:\\users\\sefer_us84\\desktop\\perfume api\\back-end\\back-end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3E9E7620-FCEC-4B60-8866-C6EAE7CB4030}|back-end\\back-end.csproj|solutionrelative:back-end\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -89,24 +101,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "back-end\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Controllers\\ProductsController.cs*",
-              "RelativeToolTip": "back-end\\Controllers\\ProductsController.cs*",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAIwGYAAABTAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductMP.cs",
+              "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Mapper\\ProductMP.cs",
+              "RelativeDocumentMoniker": "back-end\\Mapper\\ProductMP.cs",
+              "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Mapper\\ProductMP.cs",
+              "RelativeToolTip": "back-end\\Mapper\\ProductMP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:48:40.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T06:06:22.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "back-end.csproj",
+              "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\back-end.csproj",
+              "RelativeDocumentMoniker": "back-end\\back-end.csproj",
+              "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\back-end.csproj",
+              "RelativeToolTip": "back-end\\back-end.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T05:39:56.702Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "back-end.http",
+              "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\back-end.http",
+              "RelativeDocumentMoniker": "back-end\\back-end.http",
+              "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\back-end.http",
+              "RelativeToolTip": "back-end\\back-end.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-27T05:36:35.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "back-end\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "back-end\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAIwGYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:48:40.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Volume.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Models\\Volume.cs",
               "RelativeDocumentMoniker": "back-end\\Models\\Volume.cs",
@@ -114,25 +165,24 @@
               "RelativeToolTip": "back-end\\Models\\Volume.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:32:54.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:32:54.247Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Services\\Implementations\\ProductService.cs",
               "RelativeDocumentMoniker": "back-end\\Services\\Implementations\\ProductService.cs",
-              "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Services\\Implementations\\ProductService.cs*",
-              "RelativeToolTip": "back-end\\Services\\Implementations\\ProductService.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "back-end\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIIAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-22T07:28:56.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "PagedResult.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Helpers\\PagedResult.cs",
               "RelativeDocumentMoniker": "back-end\\Helpers\\PagedResult.cs",
@@ -140,25 +190,23 @@
               "RelativeToolTip": "back-end\\Helpers\\PagedResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:26:23.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Services\\Interfaces\\IProductService.cs",
-              "RelativeDocumentMoniker": "back-end\\Services\\Interfaces\\IProductService.cs",
-              "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Services\\Interfaces\\IProductService.cs*",
-              "RelativeToolTip": "back-end\\Services\\Interfaces\\IProductService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:23:44.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:26:23.235Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Services\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "back-end\\Services\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Services\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "back-end\\Services\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T07:23:44.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ProductQueryParams.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Helpers\\ProductQueryParams.cs",
               "RelativeDocumentMoniker": "back-end\\Helpers\\ProductQueryParams.cs",
@@ -166,25 +214,23 @@
               "RelativeToolTip": "back-end\\Helpers\\ProductQueryParams.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:21:53.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:21:53.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ProductDetailsDto.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\DTOs\\ProductDtos\\ProductDetailsDto.cs",
               "RelativeDocumentMoniker": "back-end\\DTOs\\ProductDtos\\ProductDetailsDto.cs",
               "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\DTOs\\ProductDtos\\ProductDetailsDto.cs",
               "RelativeToolTip": "back-end\\DTOs\\ProductDtos\\ProductDetailsDto.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAA0wCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:12:32.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:12:32.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "ProductListDto.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\DTOs\\ProductDtos\\ProductListDto.cs",
               "RelativeDocumentMoniker": "back-end\\DTOs\\ProductDtos\\ProductListDto.cs",
@@ -192,12 +238,11 @@
               "RelativeToolTip": "back-end\\DTOs\\ProductDtos\\ProductListDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:11:53.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:11:53.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "ContactResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\DTOs\\ContactDTOs\\ContactResponseDto.cs",
               "RelativeDocumentMoniker": "back-end\\DTOs\\ContactDTOs\\ContactResponseDto.cs",
@@ -205,12 +250,11 @@
               "RelativeToolTip": "back-end\\DTOs\\ContactDTOs\\ContactResponseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:10:59.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:10:59.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ProductUpdateDto.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\DTOs\\ProductDtos\\ProductUpdateDto.cs",
               "RelativeDocumentMoniker": "back-end\\DTOs\\ProductDtos\\ProductUpdateDto.cs",
@@ -218,61 +262,56 @@
               "RelativeToolTip": "back-end\\DTOs\\ProductDtos\\ProductUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:10:32.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:10:32.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\DTOs\\ProductDtos\\ProductCreateDto.cs",
               "RelativeDocumentMoniker": "back-end\\DTOs\\ProductDtos\\ProductCreateDto.cs",
               "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\DTOs\\ProductDtos\\ProductCreateDto.cs",
               "RelativeToolTip": "back-end\\DTOs\\ProductDtos\\ProductCreateDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:07:55.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:07:55.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Models\\Product.cs",
               "RelativeDocumentMoniker": "back-end\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Models\\Product.cs",
               "RelativeToolTip": "back-end\\Models\\Product.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T07:03:17.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T07:03:17.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "ContactMessage.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Models\\ContactMessage.cs",
               "RelativeDocumentMoniker": "back-end\\Models\\ContactMessage.cs",
               "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Models\\ContactMessage.cs",
               "RelativeToolTip": "back-end\\Models\\ContactMessage.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:42:18.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T06:42:18.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "dbo.Products [Data]",
+              "DocumentIndex": 20,
+              "Title": "dbo.Products.sql",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PerfumeDB/True/SqlTable/dbo.Products.sql",
-              "ToolTip": "dbo.Products [Data]",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/PerfumeDB/True/SqlTable/dbo.Products.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-10-22T06:37:03.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T06:37:03.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "20251022063521_createUser.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Migrations\\20251022063521_createUser.cs",
               "RelativeDocumentMoniker": "back-end\\Migrations\\20251022063521_createUser.cs",
@@ -280,12 +319,11 @@
               "RelativeToolTip": "back-end\\Migrations\\20251022063521_createUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:35:21.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T06:35:21.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "OrderStatus.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Models\\OrderStatus.cs",
               "RelativeDocumentMoniker": "back-end\\Models\\OrderStatus.cs",
@@ -293,29 +331,23 @@
               "RelativeToolTip": "back-end\\Models\\OrderStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T06:32:01.273Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-10-22T06:32:01.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Program.cs",
               "RelativeDocumentMoniker": "back-end\\Program.cs",
               "ToolTip": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Program.cs",
               "RelativeToolTip": "back-end\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T08:00:49.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T08:00:49.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\appsettings.json",
               "RelativeDocumentMoniker": "back-end\\appsettings.json",
@@ -323,12 +355,11 @@
               "RelativeToolTip": "back-end\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-20T07:59:13.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T07:59:13.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "20251020075841_initial.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Migrations\\20251020075841_initial.cs",
               "RelativeDocumentMoniker": "back-end\\Migrations\\20251020075841_initial.cs",
@@ -336,12 +367,11 @@
               "RelativeToolTip": "back-end\\Migrations\\20251020075841_initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T07:58:41.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T07:58:41.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\sefer_us84\\Desktop\\Perfume API\\back-end\\back-end\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "back-end\\Data\\AppDbContext.cs",
@@ -349,8 +379,7 @@
               "RelativeToolTip": "back-end\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAswAkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T07:54:18.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T07:54:18.968Z"
             }
           ]
         }
