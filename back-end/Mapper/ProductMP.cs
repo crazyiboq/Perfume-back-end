@@ -12,7 +12,7 @@ public class ProductMP : Profile
         CreateMap<Product, ProductDetailDto>();
         CreateMap<ProductCreateDto, Product>();
         CreateMap<Product, ProductCreateDto>();
-
+        CreateMap<Product, ProductListDto>();
         CreateMap<ProductUpdateDto, Product>()
                 .ForAllMembers(opts => opts.Condition((src, dest, srcMember) => srcMember != null));
     }

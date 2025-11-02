@@ -1,23 +1,24 @@
-﻿using PerfumeApi.Models.Enums;
+﻿using back_end.Models.Entity;
+using PerfumeApi.Models.Enums;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Runtime.CompilerServices;
 
 namespace back_end.Models;
 
-public class Order
+public class Order:BaseEntity
 {
-    public int Id { get; set; }
+    public int UserId { get; set; }
 
-    public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+    public string CustomerName { get; set; } = default!;
+    public string CustomerEmail { get; set; } = default!;
+    public DateTime OrderedOn { get; set; } = DateTime.UtcNow;
 
-    [Column(TypeName = "decimal(10,2)")]
+    
+    public OrderStatus Status { get; set; } = OrderStatus.Pending;
     public decimal TotalAmount { get; set; }
 
-    public OrderStatus Status { get; set; } = OrderStatus.Pending;
 
-
-    public int UserId { get; set; }
-    public User User { get; set; }
-
+    public OrderShipping Shipping { get; set; } = new();
+    public ICollection<OrderItem> Items { get; set; } = new List<OrderItem>();
 
 }

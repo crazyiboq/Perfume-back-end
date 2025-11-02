@@ -1,19 +1,15 @@
-﻿namespace back_end.Models
-{
-    public class ContactMessage
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Email { get; set; }
+﻿using back_end.Models.Entity;
 
-        public string Phone { get; set; }
+namespace back_end.Models
+{
+    public class ContactMessage:BaseEntity
+    {
+        public string FullName { get; set; } = default!;
+        public string? Email { get; set; }
+
+        public string? Phone { get; set; }
 
         public string Subject { get; set; }
-
         public string Message { get; set; }
-
-        public DateTime CreatedAt { get; set; }
-
-        public bool isRead { get; set; }
     }
 }

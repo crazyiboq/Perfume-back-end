@@ -1,20 +1,18 @@
-﻿namespace back_end.DTOs.ProductDtos
+﻿using back_end.DTOs.ProductNotesDTOs;
+using back_end.Models;
+using System.Text.Json.Serialization;
+
+
+namespace back_end.DTOs.ProductDtos
 {
     public class ProductListDto
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Brand { get; set; }
-
-        public decimal Price { get; set; }
-        public decimal? Discount { get; set; }
-
-        public string Image { get; set; }
-        public bool InStock { get; set; }
-
-        public decimal Rating { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
+        public string Brand { get; set; } = string.Empty;
         public int Reviews { get; set; }
+        public Gender gender { get; set; }
 
-        public bool Featured { get; set; }
+        public ProductNotesListDto? Notes { get; set; }
     }
 }
